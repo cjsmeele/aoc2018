@@ -1,0 +1,16 @@
+#+TITLE: Advent of Code 2018 solutions
+#+AUTHOR: Chris Smeele
+
+These are my solutions to [[https://adventofcode.com/2018][AOC2018]].
+
+Just like [[https://github.com/cjsmeele/aoc2017/][last year]], I have no
+intention or expectation to finish all puzzles. After all, there is only so much time and
+that many projects to work on. :-)
+
+With that said, let's see how far we get this year, using Haskell!
+
+To run any of the solutions:
+
+: cabal new-run day01
+
+Optionally provide the input file name as an extra argument.
