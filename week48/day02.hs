@@ -1,9 +1,8 @@
 module Main where
 
-import Common
-
-import Data.List
-import Data.Maybe
+import           Common
+import           Data.List
+import           Data.Maybe
 
 work xs = c2 * c3
 
